@@ -18,4 +18,6 @@ elseif id == 66654135 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/lightymysterious-oss/Dahen-hub-op/refs/heads/main/Murder%20Mystery%202.lua", true))()
 elseif id == 6035872082 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nothubbb/not-hub-scripts/refs/heads/main/Rivals.lua", true))()
+    elseif id == 18687417158 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/34f3f/forsaken.github.io/refs/heads/main/ringtabublik.lua", true))()
 end
